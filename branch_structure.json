@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/multisig-signature-verification",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/multisig-signature-verification": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/multisig-signature-verification",
+    "origin"
+  ]
+}
